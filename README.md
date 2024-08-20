@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ```
 
 
-📊 Dataset
+## 📊 Dataset
 
 The datasets used for this project should be a univariate or multivariate time series dataset in `.csv` format. Ensure the dataset is properly formatted with a timestamp column (if applicable) and feature columns.
 
@@ -54,6 +54,6 @@ we use `facebook.csv` for train model and `boeing.csv` and `jp_morgan.csv` for v
 
 
 
-🚀 Usage
+## 🚀 Usage
 
 After clone repo and install required dependencies, open `main.ipynb` and have fun :)

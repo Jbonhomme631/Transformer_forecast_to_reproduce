@@ -21,6 +21,6 @@ This project demonstrates the application of **Transformer neural networks** for
 To run the project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/{your_username}/{repo_name}.git
-cd {repo_name}
+git clone https://github.com/rezaAdinepour/Time-Series-Forecasting.git
+cd Time-Series-Forecasting
 pip install -r requirements.txt

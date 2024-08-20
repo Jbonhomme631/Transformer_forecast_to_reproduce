@@ -87,7 +87,7 @@ In bellow you can see predicted signal of train and validation dataset:
 
 * validation for `boeing.csv`
 
-![train_result](images/validation_result1.png)
+![train_result](images/validation_result.png)
 
 
 * validation for `jp_moegan.csv`

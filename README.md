@@ -69,3 +69,8 @@ The Transformer model consists of multiple layers of encoders and decoders. Each
 * **Positional Encoding:** Embeds positional information, which is critical for time series.
 
 The decoder is adapted to forecast future values based on past sequences.
+
+
+
+
+## 📈 Results

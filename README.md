@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Issues](https://img.shields.io/github/issues/{your_username}/{repo_name})
-![View Count](https://komarev.com/ghpvc/?username={your_username}&repo={repo_name}&color=blue)
+![View Count](https://komarev.com/ghpvc/?username={rezaAdinepour}&repo={Time-Series-Forecasting}&color=blue)
 
 
 ## 📜 Overview

@@ -95,3 +95,17 @@ In bellow you can see predicted signal of train and validation dataset:
 ![train_result](images/validation_result2.png)
 
 
+
+
+## 👨‍💻 Contributing
+
+Contributions are always welcome! If you have any ideas, suggestions, or bug reports, feel free to open an issue or submit a pull request.
+
+To contribute:
+
+1. Fork the project
+2. Create your feature branch (git checkout -b feature/NewFeature)
+3. Commit your changes (git commit -m 'Add some NewFeature')
+4. Push to the branch (git push origin feature/NewFeature)
+5. Open a pull request
+

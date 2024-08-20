@@ -33,11 +33,14 @@ pip install -r requirements.txt
 ```plaintext
 .
 ├── data/                   # Folder to store input datasets
-├── models/                 # Saved models after training
-├── notebook/               # Jupyter notebook for development and experimentation
+│   ├── boeing.csv          # Time series dataset 1
+│   ├── facebook.csv        # Time series dataset 2
+│   └── jp_morgan.csv       # Time series dataset 3
+├── model/                  # Folder containing the saved model
+│   └── time_forecasting_transformer.pth           # Trained transformer model
+├── src/                    # Source folder with code and notebook
+│   └── main.ipynb          # Jupyter notebook for training and forecasting
 ├── images/                 # Directory for saving plots and model visualization
-├── utils.py                # Utility functions for preprocessing and model evaluation
-├── transformer_model.py    # Transformer model architecture
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project overview
 ```

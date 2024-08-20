@@ -24,3 +24,20 @@ To run the project, clone the repository and install the required dependencies.
 git clone https://github.com/rezaAdinepour/Time-Series-Forecasting.git
 cd Time-Series-Forecasting
 pip install -r requirements.txt
+```
+
+
+
+## Repository Structure
+
+```plaintext
+.
+├── data/                   # Folder to store input datasets
+├── models/                 # Saved models after training
+├── notebook/               # Jupyter notebook for development and experimentation
+├── images/                 # Directory for saving plots and model visualization
+├── utils.py                # Utility functions for preprocessing and model evaluation
+├── transformer_model.py    # Transformer model architecture
+├── requirements.txt        # Python dependencies
+└── README.md               # Project overview
+```

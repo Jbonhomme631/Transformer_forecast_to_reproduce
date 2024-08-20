@@ -57,3 +57,15 @@ we use `facebook.csv` for train model and `boeing.csv` and `jp_morgan.csv` for v
 ## 🚀 Usage
 
 After clone repo and install required dependencies, open `main.ipynb` and have fun :)
+
+
+
+## 🧠 Model Architecture
+
+The Transformer model consists of multiple layers of encoders and decoders. Each encoder contains:
+
+* **Multi-head Self-Attention Mechanism:** Captures temporal relationships in the time series.
+* **Feedforward Neural Network:** Provides additional non-linearity to model complex patterns.
+* **Positional Encoding:** Embeds positional information, which is critical for time series.
+
+The decoder is adapted to forecast future values based on past sequences.

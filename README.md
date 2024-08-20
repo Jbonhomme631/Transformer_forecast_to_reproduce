@@ -78,3 +78,15 @@ The decoder is adapted to forecast future values based on past sequences.
 
 
 ## 📈 Results
+In bellow you can see predicted signal of train and validation dataset:
+
+* train:
+![train_result](images/train_result.png)
+
+* validation for `boeing.csv`
+![train_result](images/validation_result1.png)
+
+* validation for `jp_moegan.csv`
+![train_result](images/validation_result2.png)
+
+

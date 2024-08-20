@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 
 
-## Repository Structure
+## 📂 Repo Structure
 
 ```plaintext
 .

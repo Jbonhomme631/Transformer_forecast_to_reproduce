@@ -32,10 +32,10 @@ pip install -r requirements.txt
 
 ```plaintext
 .
-├── data/                   # Folder to store input datasets
-│   ├── boeing.csv          # Time series dataset 1
-│   ├── facebook.csv        # Time series dataset 2
-│   └── jp_morgan.csv       # Time series dataset 3
+├── data/                                          # Folder to store input datasets
+│   ├── boeing.csv                                 
+│   ├── facebook.csv                               
+│   └── jp_morgan.csv                              
 ├── model/                                         # Folder containing the saved model
 │   └── time_forecasting_transformer.pth           # Trained transformer model
 ├── src/                                           # Source folder with code and notebook

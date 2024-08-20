@@ -53,7 +53,7 @@ The datasets used for this project should be a univariate or multivariate time s
 we use `facebook.csv` for train model and `boeing.csv` and `jp_morgan.csv` for validate model. You can use your own custom dataset instead of this dataset.
 
 Bellow image is `open` column of `facebook.csv` dataset:
-![input_image](images/input_image.png)
+![input_image](images/input_data.png)
 
 
 

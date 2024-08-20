@@ -44,3 +44,10 @@ pip install -r requirements.txt
 ├── requirements.txt                               # Python dependencies
 └── README.md                                      # Project overview
 ```
+
+
+📊 Dataset
+
+The datasets used for this project should be a univariate or multivariate time series dataset in `.csv` format. Ensure the dataset is properly formatted with a timestamp column (if applicable) and feature columns.
+
+we use `facebook.csv` for train model and `boeing.csv` and `jp_morgan.csv` for validate model.

@@ -109,3 +109,13 @@ To contribute:
 4. Push to the branch (git push origin feature/NewFeature)
 5. Open a pull request
 
+
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## 🙌 Acknowledgements
+
+Special thanks to the open-source community and developers who contribute to advancing machine learning and time series forecasting.
